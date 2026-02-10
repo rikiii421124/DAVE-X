@@ -1,23 +1,10 @@
 {
-  "name": "dave-x-launcher",
-  "version": "3.2.0",
-  "description": "DAVE-X WhatsApp Bot Launcher with persistent database support",
+  "name": "dave-x",
+  "version": "1.0.0",
+  "description": "DAVE-X Fixed Launcher - Optimized for 200MB free panels",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "start:optimized": "node --max-old-space-size=512 --optimize-for-size --gc-interval=100 index.js",
-    "test": "echo \"No tests\" && exit 0"
-  },
-  "keywords": [
-    "whatsapp-bot"
-  ],
-  "author": "Dave",
-  "license": "ISC",
-  "dependencies": {
-    "adm-zip": "^0.5.16",
-    "axios": "^1.8.4",
-    "dotenv": "*",
-    "pg": "^8.11.3"
+    "start": "node index.js"
   },
   "engines": {
     "node": ">=18.0.0"
