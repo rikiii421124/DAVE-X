@@ -1,5 +1,5 @@
 /*
- * Protected by ROMEK JA OBFUSCATOR
+ * Protected BY DAVE-X OBFUSCATOR
  * Protection Level: Military
  * Generated: 2026-02-17T00:19:37.870Z
  * Warning: Unauthorized reverse engineering is prohibited
